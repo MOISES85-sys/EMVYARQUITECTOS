@@ -1,0 +1,109 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header
+{
+    position: fixed;
+    width: 100%;
+}
+.logo
+{
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-left: 90px;
+    margin-top: -10px;
+}
+.menu
+{
+   background-color: #ffffff;
+    width: 100%;                /*SE ELIMINARÁ TODO EL BACKGROUND */
+    height: 90px;
+}
+a
+{
+    text-decoration: none;
+    color: black;
+}
+li
+{  
+    list-style: none;
+    
+    display: inline;
+    margin-right: 130px;
+    margin-left: 90px;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.choice
+{
+    background-color: rgb(255, 0, 0);
+    width: 100%;
+    height: 700px;
+}
+.fre
+{
+   
+    width: 50%;
+    height: 800px;
+}
+.parce
+{
+    width: 100%;
+    height: 150px;
+    text-align: center;
+}
+.float
+{
+    width: 100%;
+    height: 200px;
+}
+.int
+{ 
+    width: 100%;
+    height: 200px;
+}
+.red
+{ 
+    width: 100%;
+    height: 200px;
+}
+h1
+{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -60px;
+    font-style: italic;
+}
+.temp
+{
+    background-color: rgb(255, 255, 255);
+    width: 350px;
+    height: 150px;
+    margin-left: 200px;
+}
+.diremvy
+{
+    width: 100px;
+    height: 100px;
+    margin-left: -150px;
+    margin-top: -5px;
+}
+p
+{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-align: right;
+    margin-top: -80px;
+    
+}
+.mapaemvy
+{
+    float: right;
+    margin-top: -700px;
+    margin-right: 40px;
+}
